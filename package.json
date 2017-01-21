@@ -16,8 +16,8 @@
     "type": "git",
     "url": "git+https://github.com/barbarojs/barbarojs-stream.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Marco Sangalli <sangalli.marco@gmail.com>",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/barbarojs/barbarojs-stream/issues"
   },
