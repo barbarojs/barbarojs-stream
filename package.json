@@ -1,7 +1,7 @@
 {
   "name": "barbarojs-stream",
   "amdName": "barbarojs-stream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stream lib based on RxJs",
   "main": "build/index.js",
   "files": [
